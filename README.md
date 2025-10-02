@@ -10,7 +10,8 @@ My QA journey started with strong curiosity about software reliability and the i
 
 I specialize in manual and automation testing using modern frameworks and tools, with a strong focus on delivering bug-free, reliable, and user-friendly software. I thrive in Agile teams, collaborating closely with developers and product managers to accelerate releases without sacrificing quality.
 
-📄 Resume 
+📄 Resume:
+ [Download my Resume](./Suren_Atashkarian_QA_Engineer.pdf)
 
 🛠 Skills:
 
@@ -34,5 +35,5 @@ Databases: SQL (Adminer)
 Collaboration: Agile/Scrum methodologies
 
 🤝 Connect with Me
-LinkedIn: linkedin.com/in/suren-atashkarian-65bb6b274
+LinkedIn: https://www.linkedin.com/in/suren-atashkarian-65bb6b274/
 Email: surenatashkaria@gmail.com
