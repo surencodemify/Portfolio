@@ -36,4 +36,5 @@ Collaboration: Agile/Scrum methodologies
 
 🤝 Connect with Me
 LinkedIn: https://www.linkedin.com/in/suren-atashkarian-65bb6b274/
+
 Email: surenatashkaria@gmail.com
