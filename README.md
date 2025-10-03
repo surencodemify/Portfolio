@@ -15,14 +15,21 @@ I specialize in manual and automation testing using modern frameworks and tools,
 
 🛠 Skills:
 
-Manual & Automated Testing: Regression, exploratory, smoke, and end-to-end testing.
-Automation Frameworks: Playwright, Page Object Model (POM), Fixtures.
-API Testing: Postman, Swagger – validating endpoints, JSON data accuracy, and integration reliability.
-Databases: SQL (Adminer) – backend validation of data integrity.
-Bug Tracking & Test Management: Jira, Zephyr Scale.
-Version Control & CI/CD: Git, GitHub Actions.
-Web Technologies: HTML, JavaScript.
-Soft Skills: Analytical mindset, problem-solving, collaboration, attention to detail.
+Manual & Automated Testing: Regression, exploratory, smoke, and end-to-end testing
+
+Automation Frameworks: Playwright, Page Object Model (POM), Fixtures
+
+API Testing: Postman, Swagger – validating endpoints, JSON data accuracy, and integration reliability
+
+Databases: SQL (Adminer) – backend validation of data integrity
+
+Bug Tracking & Test Management: Jira, Zephyr Scale
+
+Version Control & CI/CD: Git, GitHub Actions
+
+Web Technologies: HTML, JavaScript
+
+Soft Skills: Analytical mindset, problem-solving, collaboration, attention to detail
 
 
 🧰 Tools:
