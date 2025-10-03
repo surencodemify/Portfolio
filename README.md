@@ -38,6 +38,6 @@ Tools:
 
 
 🤝 Connect with Me
-* **LinkedIn:** (https://www.linkedin.com/in/suren-atashkarian-65bb6b274/)
+* **LinkedIn:** https://www.linkedin.com/in/suren-atashkarian-65bb6b274/
 * **Email:** [surenatashkaria@gmail.com](mailto:surenatashkaria@gmail.com)
 
