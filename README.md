@@ -15,32 +15,29 @@ I specialize in manual and automation testing using modern frameworks and tools,
 
 🛠 Skills:
 
-Manual & Automated Testing: Regression, exploratory, smoke, and end-to-end testing
-
-Automation Frameworks: Playwright, Page Object Model (POM), Fixtures
-
-API Testing: Postman, Swagger – validating endpoints, JSON data accuracy, and integration reliability
-
-Databases: SQL (Adminer) – backend validation of data integrity
-
-Bug Tracking & Test Management: Jira, Zephyr Scale
-
-Version Control & CI/CD: Git, GitHub Actions
-
-Web Technologies: HTML, JavaScript
-
-Soft Skills: Analytical mindset, problem-solving, collaboration, attention to detail
+* **Manual & Automated Testing:** Regression, exploratory, smoke, and end-to-end testing
+* **Automation Frameworks:** Playwright, Page Object Model (POM), Fixtures
+* **API Testing:** Postman, Swagger – validating endpoints, JSON data accuracy, and integration reliability
+* **Databases:** SQL (Adminer) – backend validation of data integrity
+* **Bug Tracking & Test Management:** Jira, Zephyr Scale
+* **Version Control & CI/CD:** Git, GitHub Actions
+* **Web Technologies:** HTML, JavaScript
+* **Soft Skills:** Analytical mindset, problem-solving, collaboration, attention to detail
 
 
-🧰 Tools:
-Testing Frameworks: Playwright, JavaScript
-API Testing: Postman, Swagger
-Test Management: Jira, Zephyr Scale
-Version Control: Git, GitHub
-CI/CD Integration: GitHub Actions
-Databases: SQL (Adminer)
-Collaboration: Agile/Scrum methodologies
+Tools:
+
+* **Testing Frameworks:** Playwright
+* **Programming Languages:** JavaScript
+* **API Testing:** Postman, Swagger
+* **Test Management:** Jira, Zephyr Scale
+* **Version Control:** Git, GitHub
+* **CI/CD Integration:** GitHub Actions
+* **Databases:** SQL (Adminer)
+* **Collaboration:** Agile/Scrum methodologies
+
 
 🤝 Connect with Me
-LinkedIn: https://www.linkedin.com/in/suren-atashkarian-65bb6b274/
-Email: surenatashkaria@gmail.com
+* **LinkedIn:** (https://www.linkedin.com/in/suren-atashkarian-65bb6b274/)
+* **Email:** [surenatashkaria@gmail.com](mailto:surenatashkaria@gmail.com)
+
